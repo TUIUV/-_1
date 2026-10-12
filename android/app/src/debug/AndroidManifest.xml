@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- مطلوبة لأدوات التطوير (Hot Reload / DevTools) في نسخة debug فقط -->
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
